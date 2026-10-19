@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hyper Ultra Launcher</string>
+    <string name="accessibility_description">Permite a Hyper Ultra Launcher apagar la pantalla, abrir las notificaciones y los recientes. No lee el contenido de otras apps.</string>
+    <string name="overlay_channel">Funciones flotantes</string>
+    <string name="overlay_notif_title">Hyper Ultra Launcher</string>
+    <string name="overlay_notif_text">Burbuja / pantalla de bloqueo activas</string>
+    <string name="overlay_bubble_desc">Burbuja de accesos rápidos</string>
+    <string name="overlay_failed">No se pudo mostrar la burbuja</string>
+    <string name="need_accessibility">Activa el servicio de accesibilidad de Hyper Ultra Launcher en Ajustes</string>
+    <string name="bubble_home">Inicio</string>
+    <string name="bubble_lock">Apagar pantalla</string>
+    <string name="bubble_notifs">Notificaciones</string>
+    <string name="bubble_recents">Recientes</string>
+    <string name="bubble_hide">Ocultar burbuja</string>
+</resources>

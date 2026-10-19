@@ -1,0 +1,15 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- Barras de la "H" (zona segura: círculo de 66 dp centrado) -->
+    <path
+        android:pathData="M39,34 L39,74"
+        android:strokeColor="#FFFFFFFF" android:strokeWidth="9" android:strokeLineCap="round" />
+    <path
+        android:pathData="M69,34 L69,74"
+        android:strokeColor="#FFFFFFFF" android:strokeWidth="9" android:strokeLineCap="round" />
+    <!-- Travesaño en tono claro -->
+    <path
+        android:pathData="M39,54 L69,54"
+        android:strokeColor="#FFBFE3FF" android:strokeWidth="9" android:strokeLineCap="round" />
+</vector>
